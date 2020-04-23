@@ -1,0 +1,55 @@
+main{
+    font-size: 20px;
+    font-family: 'poppins',sans-serif;
+    text-align: center;
+    color: #F5F5F5;
+    background: linear-gradient(45deg,#414141,#000000,#414141);
+}
+
+#title{
+    padding-top: 20px;
+    padding-top: -30px;
+    font-size: 50px;
+    text-decoration: underline;
+    color: gold;
+}
+
+#img-div{
+    margin: auto;
+    width: 20cm;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px;
+    background-color: #D3D3D3; 
+    color: rgb(41, 40, 40);
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+li{
+    padding: 3px 3px 3px 3px;
+}
+
+#tribute-info{
+    padding: 10px 10px 10px 100px;
+    text-align: left;
+}
+
+#tribute-link{
+    color: greenyellow;
+    padding-bottom: 10px;
+}
+
