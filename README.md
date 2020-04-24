@@ -6,9 +6,9 @@ A tribute page to Cristiano Ronaldo. This page is a front-end project for [freeC
 - style.css
 
 ## Screenshots:
-![](Screenshots/tribute-page1.jpg)
-![](Screenshots/tribute-page2.jpg)
-![](Screenshots/tribute-page3.jpg)
+![](images/tribute-page1.jpg)
+![](images/tribute-page2.jpg)
+![](images/tribute-page3.jpg)
 
 ## Made with:
 - HTML
